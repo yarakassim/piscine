@@ -1,0 +1,5 @@
+Credentials cache: API:1C19262B-4D96-4C27-9DAB-BD4703C74E62
+        Principal: ykassim-@42.FR
+
+  Issued                Expires               Principal
+Feb  2 09:29:33 2021  Feb  9 09:29:21 2021  krbtgt/42.FR@42.FR
